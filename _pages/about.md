@@ -10,7 +10,13 @@ redirect_from:
 
 Welcome! 
 
-I have created this website prior to the start of my PhD (in May 2022) as a platform for communicating both my research and my non-academic interests in nature. The website will be updated along the way, so expect more content in the future!
+# Biography
+
+# Quantitative wildlife biologist
+#I am a naturalist at heart and am particularly fond of amphibians, reptiles, mammals, and birds. 
+
+
+I created this website at the start of my PhD (in May 2022) as a place for me to write freely about whatever aspect of my research I'd fancy writing about. I plan to share my experiences with the science, the fieldwork, and of course with whatever animals I happen to encounter along the way. Happy reading!
 
 Cheers,
 
