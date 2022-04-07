@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I've created this personal website as a platform for my research and my other nature-related interests. 
+Welcome! 
 
-This website was created on April 7th 2022 and is still under construction.
+**About Me**
+
+I have created this website prior at the start of my PhD (May 2022) as a platform for communicating both my research and my non-academic interests. The website will be updated along the way, so expect more content in the future!
+
+Cheers,
+
+Yannick
+
