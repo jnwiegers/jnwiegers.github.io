@@ -15,12 +15,12 @@ Education
 * MSc in Environmental Biology, Utrecht University, 2021
 
 
-Work experience
-======
-* Education and Research Assistant October 2021 - January 2022: 
-  * Utrecht University
-  * Duties included: Writing a NWO research proposal
-  * Supervisor: Dr. Marijke van Kuijk
+#Work experience
+#======
+#* Education and Research Assistant October 2021 - January 2022: 
+ # * Utrecht University
+ # * Duties included: Writing a NWO research proposal
+ # * Supervisor: Dr. Marijke van Kuijk
 
   
 #Skills
