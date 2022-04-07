@@ -1,10 +1,10 @@
 ---
 title: "Exploring spatio-temporal variation in soundscape saturation of a logged African tropical rainforest"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/soundscapes2022
 excerpt: ''
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2022-03-03
+venue: 'Ecological Indicators'
 paperurl: 'http://jnwiegers.github.io/files/Zwerts2022.pdf'
 citation: 'Zwerts, J. A., J. N. Wiegers, E. H. M. Sterck, and M. van Kuijk (2022). Exploring spatio-temporal variation in soundscape saturation of a logged African tropical rainforest. <i>Ecological Indicators</i>, 137, 10872.'
 ---
