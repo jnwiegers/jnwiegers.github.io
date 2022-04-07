@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "NL"
-title                    : "About me"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "J. N. (Yannick) Wiegers, MSc"
 description              : &description "PhD-candidate at Utrecht University"
