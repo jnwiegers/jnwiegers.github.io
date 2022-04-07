@@ -1,6 +1,7 @@
 ---
 title: "Exploring spatio-temporal variation in soundscape saturation of a logged African tropical rainforest"
 collection: publications
+excerpt: 'In this study we...'
 permalink: /publication/soundscapes2022
 date: 2022-03-03
 venue: 'Ecological Indicators'
