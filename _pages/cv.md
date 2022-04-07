@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 Education
 ======
@@ -17,20 +17,20 @@ Education
 
 Work experience
 ======
-* October 2021 - January 2022: Education and Research Assistant
+* Education and Research Assistant October 2021 - January 2022: 
   * Utrecht University
   * Duties included: Writing a NWO research proposal
   * Supervisor: Dr. Marijke van Kuijk
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+ # * Sub-skill 2.1
+ # * Sub-skill 2.2
+ # * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
@@ -38,18 +38,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+ # <ul>{% for post in site.talks %}
+ #   {% include archive-single-talk-cv.html %}
+ # {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+ # <ul>{% for post in site.teaching %}
+ #   {% include archive-single-cv.html %}
+ # {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
