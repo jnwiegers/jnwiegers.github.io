@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website!
+Welcome! I've created this personal website as a platform for my research and my other nature-related interests. 
+
+This website was created on April 7th 2022 and is still under construction.
