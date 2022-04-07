@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "J. N. (Yannick) Wiegers, MSc"
   avatar           : "profile.png"
-  bio              : "Wildlife Biologist"
+  bio              : "Wildlife Ecologist"
   location         : "Utrecht, the Netherlands"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  #"https://www.researchgate.net/profile/Yannick-Wiegers?ev=hdr_xprf&_sg=L4w3s7seBVzSN_A7pshz9Erp76VzEC0eljwZv6OZsBu0Pj0onhNXRzL8XcCVGT8eJvkrvYVUKQ_lj32oSAgNgRny"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5713-4067"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
