@@ -2,7 +2,7 @@
 title: "De kunst van het samenleven - een kijk op de werking en diversiteit van symbiose"
 collection: publications
 permalink: /publication/symbiosis2018
-date: 2018
+date: 2018-01-01
 venue: 'Uitgeverij de Graaff'
 ---
 
