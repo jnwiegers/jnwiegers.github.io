@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "J. N. (Yannick) Wiegers, MSc"
-  avatar           : "/images/profile.JPG"
+  avatar           : "images/profile.JPG"
   bio              : "Wildlife Biologist"
   location         : "Utrecht, the Netherlands"
   employer         :
