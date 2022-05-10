@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,4 +18,3 @@ I created this website at the start of my PhD (in May 2022) as a place for me to
 Cheers,
 
 Yannick
-
