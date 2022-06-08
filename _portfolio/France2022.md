@@ -1,6 +1,6 @@
 ---
 title: "Sainte-Thérence 2022"
-excerpt: ""
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Asp_viper.JPG'>"
 collection: portfolio
 ---
 
