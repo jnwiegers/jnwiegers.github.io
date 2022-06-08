@@ -1,7 +1,7 @@
 ---
 title: "Sainte-Thérence 2022"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/Asp_viper.JPG'>"
-collection: Nature_Travels
+collection: portfolio
 ---
 
 In May I had the opportunity to visit friends in Sainte-Thérence, Central France who where monitoring the local population of the yellow-bellied toad (*Bombina variegata*).
