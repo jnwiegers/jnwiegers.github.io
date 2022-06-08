@@ -1,6 +1,6 @@
 ---
-title: "Sainte-Thérence 2022"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Asp_viper.JPG'>"
+title: "Sainte-Thérence, May 2022"
+excerpt: "A short herpetological retreat in Central France<br/><img src='/images/Asp_viper.JPG'>"
 collection: portfolio
 ---
 
