@@ -4,7 +4,7 @@ excerpt: ""
 collection: portfolio
 ---
 
-In May I had the opportunity to visit friends in Sainte-Thérence, Central France who where studying the yellow-bellied toad (*Bombina variegata*) there. 
+In May I had the opportunity to visit friends in Sainte-Thérence, Central France who where monitoring the local population of the yellow-bellied toad (*Bombina variegata*).
 
 We saw lots of wildlife, including this beautiful snake. 
 
