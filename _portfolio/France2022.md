@@ -6,7 +6,7 @@ collection: portfolio
 
 In May I had the opportunity to visit friends in Sainte-Thérence, Central France who where monitoring the local population of the Yellow-bellied toad (*Bombina variegata*).
 
-We saw lots of wildlife, with as highlights Yellow-bellied & Midwife toads, Garden dormouse, European serin & bee-eater, Aesculapian snake, and Asp viper.  
+We saw lots of wildlife, with as highlights Yellow-bellied & Midwife toads, Garden dormouse, European serin & bee-eater, Aesculapian snake, and Asp viper. 
 
 | ![Asp Viper](/images/Asp_viper.JPG) |
 |:--:| 
