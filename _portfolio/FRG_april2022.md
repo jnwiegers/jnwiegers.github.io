@@ -1,6 +1,6 @@
 ---
 title: "French Guiana, May 2022"
-excerpt: "My first work visit <br/><img src='/images/lophornis.JPG'>"
+excerpt: "<br/><img src='/images/lophornis.JPG'>"
 collection: portfolio
 ---
 
