@@ -1,6 +1,6 @@
 ---
-title: "Sainte-Thérence, May 2022"
-excerpt: "<br/><img src='/images/Asp_viper.JPG'>"
+title: "Slovakia, July 2022"
+excerpt: "<br/><img src='/images/bear.JPG'>"
 collection: portfolio
 ---
 
